@@ -1,3 +1,1 @@
-# hello-world
-exercise
-likang write
+hello-world
